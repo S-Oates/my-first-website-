@@ -8,7 +8,7 @@ You can browse the website [here](https://sjoates28.github.io/my-first-website-/
 
 ## Project Description 
 
-This website was created as a means to familiarize myself with the functions and operation of common development tools such as _Git_, _GitHub_ and _Cloud9_ and to gain perspective on how these tools are used effectively to write and manage code. Displayed in this project is a breakdown of the various tehcnologies used across each of the different sections of the program. The site consists of three pages: **Stream One**, **Stream Two** and **Stream Three**. Each page consists of 6 logos with individual links to descriptors of the relevant technologies covered in the program. 
+This website was created as a means to familiarize myself with the functions and operation of common development tools such as _Git_, _GitHub_ and _Cloud9_ and to gain perspective on how these tools are used effectively to write and manage code. Displayed in this project is a breakdown of the various tehcnologies used across each of the different sections of the program. The site consists of three pages: **Stream One**, **Stream Two** and **Stream Three**. Each page consists of 6 logos with the headings containing an individual link to  a descriptor of the relevant technology covered in the program. 
 
 ## Technology 
 
