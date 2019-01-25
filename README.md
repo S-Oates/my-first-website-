@@ -1,6 +1,6 @@
 # My Very First Web Page
 
-This project consists of my very first website.
+Welcome to my very first website!
 
 I constructed the site as part of the learning material for the Fullstack Web Developer program at Code Institute. 
 
